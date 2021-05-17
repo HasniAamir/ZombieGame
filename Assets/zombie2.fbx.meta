@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 294a316ddef70714eab1ece53ecd0862
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: abdomen
+    100002: abdomen2
+    100004: Boxers for Genesis.Shape
+    100006: chest
+    100008: Genesis
+    100010: Genesis.Shape
+    100012: head
+    100014: hip
+    100016: lBigToe
+    100018: lCarpal1
+    100020: lCarpal2
+    100022: lCollar
+    100024: lEye
+    100026: lFoot
+    100028: lForeArm
+    100030: lHand
+    100032: lIndex1
+    100034: lIndex2
+    100036: lIndex3
+    100038: lMid1
+    100040: lMid2
+    100042: lMid3
+    100044: lowerJaw
+    100046: lPectoral
+    100048: lPinky1
+    100050: lPinky2
+    100052: lPinky3
+    100054: lRing1
+    100056: lRing2
+    100058: lRing3
+    100060: lShin
+    100062: lShldr
+    100064: lThigh
+    100066: lThumb1
+    100068: lThumb2
+    100070: lThumb3
+    100072: lToe
+    100074: neck
+    100076: pelvis
+    100078: rBigToe
+    100080: rCarpal1
+    100082: rCarpal2
+    100084: rCollar
+    100086: rEye
+    100088: rFoot
+    100090: rForeArm
+    100092: rHand
+    100094: rIndex1
+    100096: rIndex2
+    100098: rIndex3
+    100100: rMid1
+    100102: rMid2
+    100104: rMid3
+    100106: rPectoral
+    100108: rPinky1
+    100110: rPinky2
+    100112: rPinky3
+    100114: rRing1
+    100116: rRing2
+    100118: rRing3
+    100120: rShin
+    100122: rShldr
+    100124: rThigh
+    100126: rThumb1
+    100128: rThumb2
+    100130: rThumb3
+    100132: rToe
+    100134: tongue01
+    100136: tongue02
+    100138: tongue03
+    100140: tongue04
+    100142: tongue05
+    100144: tongueBase
+    100146: tongueTip
+    100148: upperJaw
+    100150: WildMane for Genesis.Shape
+    100152: //RootNode
+    400000: abdomen
+    400002: abdomen2
+    400004: Boxers for Genesis.Shape
+    400006: chest
+    400008: Genesis
+    400010: Genesis.Shape
+    400012: head
+    400014: hip
+    400016: lBigToe
+    400018: lCarpal1
+    400020: lCarpal2
+    400022: lCollar
+    400024: lEye
+    400026: lFoot
+    400028: lForeArm
+    400030: lHand
+    400032: lIndex1
+    400034: lIndex2
+    400036: lIndex3
+    400038: lMid1
+    400040: lMid2
+    400042: lMid3
+    400044: lowerJaw
+    400046: lPectoral
+    400048: lPinky1
+    400050: lPinky2
+    400052: lPinky3
+    400054: lRing1
+    400056: lRing2
+    400058: lRing3
+    400060: lShin
+    400062: lShldr
+    400064: lThigh
+    400066: lThumb1
+    400068: lThumb2
+    400070: lThumb3
+    400072: lToe
+    400074: neck
+    400076: pelvis
+    400078: rBigToe
+    400080: rCarpal1
+    400082: rCarpal2
+    400084: rCollar
+    400086: rEye
+    400088: rFoot
+    400090: rForeArm
+    400092: rHand
+    400094: rIndex1
+    400096: rIndex2
+    400098: rIndex3
+    400100: rMid1
+    400102: rMid2
+    400104: rMid3
+    400106: rPectoral
+    400108: rPinky1
+    400110: rPinky2
+    400112: rPinky3
+    400114: rRing1
+    400116: rRing2
+    400118: rRing3
+    400120: rShin
+    400122: rShldr
+    400124: rThigh
+    400126: rThumb1
+    400128: rThumb2
+    400130: rThumb3
+    400132: rToe
+    400134: tongue01
+    400136: tongue02
+    400138: tongue03
+    400140: tongue04
+    400142: tongue05
+    400144: tongueBase
+    400146: tongueTip
+    400148: upperJaw
+    400150: WildMane for Genesis.Shape
+    400152: //RootNode
+    4300000: Genesis.Shape
+    4300002: Boxers for Genesis.Shape
+    4300004: WildMane for Genesis.Shape
+    7400000: walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Boxers for Genesis.Shape
+    13700002: Genesis.Shape
+    13700004: WildMane for Genesis.Shape
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Animation
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Genesis
+        weight: 1
+      - path: Genesis/Boxers for Genesis.Shape
+        weight: 1
+      - path: Genesis/Genesis.Shape
+        weight: 1
+      - path: Genesis/hip
+        weight: 1
+      - path: Genesis/hip/abdomen
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lCarpal1
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lCarpal1/lIndex1
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lCarpal1/lIndex1/lIndex2
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lCarpal1/lIndex1/lIndex2/lIndex3
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lCarpal1/lMid1
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lCarpal1/lMid1/lMid2
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lCarpal1/lMid1/lMid2/lMid3
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lCarpal2
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lCarpal2/lPinky1
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lCarpal2/lPinky1/lPinky2
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lCarpal2/lPinky1/lPinky2/lPinky3
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lCarpal2/lRing1
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lCarpal2/lRing1/lRing2
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lCarpal2/lRing1/lRing2/lRing3
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lThumb1
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lThumb1/lThumb2
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lCollar/lShldr/lForeArm/lHand/lThumb1/lThumb2/lThumb3
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/lPectoral
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/neck
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/neck/head
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/neck/head/lEye
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/neck/head/lowerJaw
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/neck/head/lowerJaw/tongueBase
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/neck/head/lowerJaw/tongueBase/tongue01
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/neck/head/lowerJaw/tongueBase/tongue01/tongue02
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/neck/head/lowerJaw/tongueBase/tongue01/tongue02/tongue03
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/neck/head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/neck/head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/neck/head/lowerJaw/tongueBase/tongue01/tongue02/tongue03/tongue04/tongue05/tongueTip
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/neck/head/rEye
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/neck/head/upperJaw
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rCarpal1
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rCarpal1/rIndex1
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rCarpal1/rIndex1/rIndex2
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rCarpal1/rIndex1/rIndex2/rIndex3
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rCarpal1/rMid1
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rCarpal1/rMid1/rMid2
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rCarpal1/rMid1/rMid2/rMid3
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rCarpal2
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rCarpal2/rPinky1
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rCarpal2/rPinky1/rPinky2
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rCarpal2/rPinky1/rPinky2/rPinky3
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rCarpal2/rRing1
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rCarpal2/rRing1/rRing2
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rCarpal2/rRing1/rRing2/rRing3
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rThumb1
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rThumb1/rThumb2
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rCollar/rShldr/rForeArm/rHand/rThumb1/rThumb2/rThumb3
+        weight: 1
+      - path: Genesis/hip/abdomen/abdomen2/chest/rPectoral
+        weight: 1
+      - path: Genesis/hip/pelvis
+        weight: 1
+      - path: Genesis/hip/pelvis/lThigh
+        weight: 1
+      - path: Genesis/hip/pelvis/lThigh/lShin
+        weight: 1
+      - path: Genesis/hip/pelvis/lThigh/lShin/lFoot
+        weight: 1
+      - path: Genesis/hip/pelvis/lThigh/lShin/lFoot/lToe
+        weight: 1
+      - path: Genesis/hip/pelvis/lThigh/lShin/lFoot/lToe/lBigToe
+        weight: 1
+      - path: Genesis/hip/pelvis/rThigh
+        weight: 1
+      - path: Genesis/hip/pelvis/rThigh/rShin
+        weight: 1
+      - path: Genesis/hip/pelvis/rThigh/rShin/rFoot
+        weight: 1
+      - path: Genesis/hip/pelvis/rThigh/rShin/rFoot/rToe
+        weight: 1
+      - path: Genesis/hip/pelvis/rThigh/rShin/rFoot/rToe/rBigToe
+        weight: 1
+      - path: Genesis/WildMane for Genesis.Shape
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
